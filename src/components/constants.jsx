@@ -3,7 +3,7 @@ import Image2 from "../assets/goat.jpg";
 import Image3 from "../assets/oil.jpg";
 import Image4 from "../assets/donkwa.jpg"
 import Image5 from "../assets/kuli.jpg";
-import Banner from "../assets/Banner.jpg";
+import Banner from "../assets/banner.jpg";
 import Test1 from "../assets/test1.jpg";
 import Test2 from "../assets/test2.jpg";
 import Test3 from "../assets/test3.jpg";
